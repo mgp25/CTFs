@@ -6,4 +6,4 @@ We are given a binary and the following note:
 
 Since I don't have the binary. You can have the assembly pseudo-code:
 
-<img src="https://github.com/mgp25/CTFs/blob/master/2018/Brute_Rev4/pseudocode.png" width=300>
+<img src="https://raw.githubusercontent.com/mgp25/CTFs/master/2018/HoneyCon/Brute_Rev4/pseudocode.png" width=400>
